@@ -1,19 +1,19 @@
-# Frontend Intern Assignment
+Frontend Intern Assignment
 
-## Setup
-
+Setup
 1. Clone the repo
 2. Run `npm install`
 3. Run `npm run dev`
 
-## Tech stack
-
+Tech stack
 - React + TypeScript
 - Vite
 - Tailwind CSS
 
-## Features
-
+Features
 - Multi-step quiz UI matching Figma design
 - Score calculation and final result screen
 - Restart quiz functionality
+
+Live Link
+frontend-assignment-six-sandy.vercel.app
